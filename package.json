@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitryShirokov2098/hexlet-js.git"
+  },
+  "author": "dmitryShirokov2098",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/dmitryShirokov2098/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/dmitryShirokov2098/hexlet-js#readme"
+}
